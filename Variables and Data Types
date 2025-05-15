@@ -9,3 +9,11 @@ print("He is currently ",age,"years old")
 print("Our new student name is "+name)
 print("At the age of",age,"he has started to learn python")
 print(name+" has scored",cgpa,"in his secondary exam")
+
+-----------------------------------------------------
+
+age="24"
+cgpa="3.95"
+print("He is currently "+age+" years old")  # He is currently 24 years old
+print(name+" has scored "+cgpa +" in his secondary exam")    #Siam Tanmoy has scored 3.95 in his secondary exam
+
