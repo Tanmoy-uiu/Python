@@ -1,0 +1,22 @@
+name="karim"
+age="29"
+gpa="3.75"
+
+print("Student Information")
+print("-------------------")
+print("Name : "+name)
+print("Age : "+age)
+print("Gpa : "+gpa)
+
+----------------------------------------
+
+name=input("Enter name : ")
+age=input("Enter age : ")
+gpa=input("Enter gpa : ")
+
+print("Student Information")
+print("-------------------")
+print("Name : "+name)
+print("Age : "+age)
+print("Gpa : "+gpa)
+
